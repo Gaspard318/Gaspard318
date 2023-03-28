@@ -9,4 +9,5 @@ I am Gaspard318
 - 👯 I’m looking to collaborate on freelance projects
 - ⚡ Fun fact: I like physics, photography, astronomy and hiking...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Gaspar318 &theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaspard318&show_icons=true&theme=radical)
+
