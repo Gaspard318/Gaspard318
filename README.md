@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+I am Gaspard318
 
 - 🔭 I’m currently working on Java and System administration
 - 🌱 I’m currently learning python
